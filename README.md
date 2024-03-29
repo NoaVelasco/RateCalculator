@@ -1,10 +1,11 @@
 # RateCalculator
+🇪🇸 `sp`
 
 **Herramienta para elaborar presupuestos profesionales**.
 
 Esta es la aplicación que desarrollé para elaborar los presupuestos de corrección, maquetación e informes de lectura para editoriales y clientes particulares en 2022. 
 
-Hecha con QtPy y Python.
+Hecha con PySide6 (QT), QtAwesome y Python.
 
 ## Funcionalidades
 
@@ -34,15 +35,16 @@ Según el número de palabras, la aplicación calcula el número de páginas apr
 ---
 
 ## Demo
-[Vídeo](imgs/calc_qt_demo.mkv)
+Download the [vídeo](imgs/calc_qt_demo.mkv).
 
 ---
+🇬🇧🇺🇸 `en` 
 
 **Tool to make professional budgets**.
 
 This is the desktop app I developed to prepare proofreading, layout and reading reports budgets for publishers and private clients in 2022.
 
-Made with QtPy and Python.
+Made with PySide6 (QT), QtAwesome and Python.
 
 ## Features
 
